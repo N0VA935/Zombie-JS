@@ -1,0 +1,24 @@
+{
+  "name": "z-project",
+  "version": "1.0.0",
+  "description": "Zombie game on js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N0VA935/Zombie-JS.git"
+  },
+  "author": "JDR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N0VA935/Zombie-JS/issues"
+  },
+  "homepage": "https://github.com/N0VA935/Zombie-JS#readme",
+  "dependencies": {
+    "matter-js": "^0.19.0",
+    "pixi.js": "^7.2.4",
+    "victor": "^1.1.0"
+  }
+}
